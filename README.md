@@ -2,7 +2,7 @@
   {
     "name": "آپدیت",
     "text": "نسخه جدید منتشر شد",
-    "update": true,
+    "update": false,
     "link": "https://google.com",
     "mode": true
   }
