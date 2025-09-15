@@ -1,9 +1,9 @@
 [
-{
-  "name": "آپدیت جدید رسید ",
-  "text": "برنامه را بروزرسانی کنید",
-  "update": true,
-  "link": "اینجا لینک را وارد کنید"
-  "mode" true
-}
+  {
+    "name": "آپدیت",
+    "text": "نسخه جدید منتشر شد",
+    "update": true,
+    "link": "https://google.com",
+    "mode": true
+  }
 ]
